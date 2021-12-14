@@ -11,4 +11,4 @@ Data is pulled from Yahoo Finance for the following purposes:
 - Compare the returns of SBUX with those of some of its competitors, like McDonald's, over the last 23 months.
 - Create a linear regression model for adjusted close price prediction.
 
-Provided are the three data sets used and the Jupyter Notebook file containing the analysis.
+Provided are the three data sets used and the [Jupyter Notebook file](https://github.com/MiguelPMiralles/Portfolio/blob/main/Analyzing%20Starbuck's%20Stock%20Price%20during%20COVID-19/Project%203%20-%20Starbucks%20Stock.ipynb) containing the analysis.

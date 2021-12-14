@@ -1,5 +1,6 @@
-# Project-3---Python-Analysis
-Repository for Project 3 of the Juno College DA Bootcamp
+# Analyzing Starbuck's Stock Price during COVID-19
+
+Repository for Project 3 of the Juno College DA Bootcamp.
 
 
 This project is an exploratory and regression anlysis of the Starbucks stock (SBUX). 

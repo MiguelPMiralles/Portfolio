@@ -9,4 +9,3 @@ Also, a [dashboard]( https://public.tableau.com/views/KilledorSeriousInjuredinTo
 Here's a snippet of the dasboard:
 
 ![image](https://user-images.githubusercontent.com/91352151/146045932-5cb28a9f-1525-4232-ac12-23da2bfee071.png)
-

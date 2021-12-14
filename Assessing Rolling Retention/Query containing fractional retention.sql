@@ -10,11 +10,8 @@ SELECT                          -->retained
   total_player_purchase,
   total_match_played,
   (last_day_played - joined) days_in_game,
-  CASE
-    WHEN (last_day_played - joined) >= 30 THEN 1 END retained,
-   CASE WHEN (last_day_played - joined) < 30 THEN 1
-END
-  non_retained
+  CASE WHEN (last_day_played - joined) >= 30 THEN 1 else 0 END retained,
+    CASE WHEN (last_day_played - joined) < 30 THEN 1 else 0 END non_retained
 FROM (
     SELECT                     -->last_day_played by player
         player_id,
@@ -71,7 +68,7 @@ FROM (
     total_player_purchase,
     total_match_played
   ORDER BY
-    joined ASC ))
+    joined ASC )
 GROUP BY 1
 ORDER BY 1)
 

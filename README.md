@@ -1,6 +1,6 @@
 # Portfolio
 
-Hi, I'm [Miguel Pallás][https://www.linkedin.com/in/miguelpallasmiralles/] and I am a data analyst.
+Hi, I'm [Miguel Pallás](https://www.linkedin.com/in/miguelpallasmiralles/) and I am a data analyst.
 
 After graduating from the Juno College Data Analysis Bootcamp, I have gathered a solid working knowledge of ETL (Extract-Transform-Load) procedures and the industry-standard technologies used to that end. I have garnered a strong knowledge in SQL, mostly in its BigQuery and PostgreSQL derivations. My coding experience is not limited to relational database languages, as I have significant experience with Python, especially with the Data Analysis-related MatPlotLib, NumPy Panda, and scikit-learn packages. 
 

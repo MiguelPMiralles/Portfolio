@@ -8,4 +8,13 @@ Here you will find the projects I have been working on over the last nine weeks,
 
 ## Projects
 
-1. [https://github.com/MiguelPMiralles/Portfolio/tree/main/Assessing%20Rolling%20Retention](Assessing Rolling Retention)
+1. (https://github.com/MiguelPMiralles/Portfolio/tree/main/Assessing%20Rolling%20Retention)[Assessing Rolling Retention]
+This project handles simulated game performance data to guess the 30-day retention date of its player pool over a lifecycle of 365 days. The analysis was performed by a team of two consisting of fellow analyst [Jon-Jon Rico Noll] (https://github.com/riconoll/ProjectOne) and myself.
+
+Follow-up questions to address are the average expenditure of those retained compared to non-retained players and the regional distribution of the player pool.
+
+The relational database features 4 tables, containing information on the players, match results, and item purchases.
+
+2. 
+
+

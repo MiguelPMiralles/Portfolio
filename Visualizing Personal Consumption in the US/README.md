@@ -1,8 +1,6 @@
 # Personal Consumption Expenditure in the US - The 2020 Case
 
-This project is an exploration of the takeaways featured in the Feb 24 2021 Bloomberg article 'The Cereal Industry Had a Very Weird Year.'
-
-https://www.bloomberg.com/opinion/articles/2021-02-24/beyond-grape-nuts-cereal-makers-had-a-very-weird-year
+This project is an exploration of the takeaways featured in the Feb 24 2021 Bloomberg article ['The Cereal Industry Had a Very Weird Year.'](https://www.bloomberg.com/opinion/articles/2021-02-24/beyond-grape-nuts-cereal-makers-had-a-very-weird-year)
 
 The main takeaways are:
 
@@ -17,8 +15,6 @@ The main takeaways are:
 - Alcohol drinks increased during the onset of the pandemic in the US (March 2020) and the implementation of the first control measures. It remained above pre-Covid throughout 2020, likely due to bars and other alcohol-serving establishments being closed or providiing minimum services.
 - Moments of crisis in recent American history (9/11 attacks, Iraq and Afghanistan invasions, and the 2008 financial crisis) are interesting milestones to which compare the March 2020 consumer response to Covid against, as changes in GDP derived from oil prices or the the actual lost of financial stability have the potential to affect personal consumption spending. 
 
-Tableau has been used to produce the exploratory analysis and the dashboard. A SQL query has been written as an attempt to coming up with a yearly growth rate (not used in the analysis). 
-https://github.com/MiguelPMiralles/Storytelling-with-Tableau/blob/main/PEC_Year_Growth_Query.sql
+Tableau has been used to produce the exploratory analysis and the dashboard. A [SQL query](https://github.com/MiguelPMiralles/Storytelling-with-Tableau/blob/main/PEC_Year_Growth_Query.sql) has been written as an attempt to coming up with a yearly growth rate (not used in the analysis). 
 
-https://public.tableau.com/app/profile/miguel2600/viz/PersonalConsumptionExpenditureintheUS-The2020Case/2020aWeirdYearforPersonalConsumption
- 
+A story narrating the evolution of personal consuption expenditure and the particulars of 2020 can be found on [my Tableau Public dashboard](https://public.tableau.com/app/profile/miguel2600/viz/2020aWeirdYearforPersonalConsumptionintheUS/2020aWeirdYearforPersonalConsumption).

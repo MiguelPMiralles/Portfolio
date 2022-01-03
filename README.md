@@ -16,7 +16,7 @@ This project handles simulated game performance data to guess the 30-day retenti
 
 2. [Visualizing Personal Consumption in the US](https://github.com/MiguelPMiralles/Portfolio/tree/main/Visualizing%20Personal%20Consumption%20in%20the%20US)
 
-This project is an exploration of the takeaways featured in the Feb 24 2021 Bloomberg article 'The Cereal Industry Had a Very Weird Year.'
+This project is an exploration of the takeaways featured in the Feb 24 2021 Bloomberg article ['The Cereal Industry Had a Very Weird Year.'](https://www.bloomberg.com/opinion/articles/2021-02-24/beyond-grape-nuts-cereal-makers-had-a-very-weird-year)
 
 3. [Analyzing Starbuck's Stock Price during COVID-19](https://github.com/MiguelPMiralles/Portfolio/tree/main/Analyzing%20Starbuck's%20Stock%20Price%20during%20COVID-19)
 

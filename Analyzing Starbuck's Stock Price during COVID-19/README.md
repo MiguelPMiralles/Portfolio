@@ -2,8 +2,7 @@
 
 Repository for Project 3 of the Juno College DA Bootcamp.
 
-
-This project is an exploratory and regression anlysis of the Starbucks stock (SBUX). 
+This project is an exploratory and time series with intent of 2devising a 24-month price forecasting model of the Starbucks stock (SBUX). 
 
 Data is pulled from Yahoo Finance for the following purposes: 
 

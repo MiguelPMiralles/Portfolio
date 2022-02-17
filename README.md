@@ -8,7 +8,9 @@ I have extensive experience working in multidisciplinary teams that are service-
 
 Here you will find the projects I have been working on over the last nine weeks, as part of of the Juno College Data Analysis Bootcamp. 
 
-Withat that in mind, let me introduce you to my projects. 
+With that in mind, let me introduce you to my projects. 
+
+In this repository you will also find a copy of my [resume](https://github.com/MiguelPMiralles/Portfolio/blob/main/Miguel_Pall%C3%A1s_Miralles_-_Data_Analyst.pdf), in case you want to take a look at my background and education.
 
 ## Projects
 

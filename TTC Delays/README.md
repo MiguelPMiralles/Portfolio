@@ -1,6 +1,6 @@
 # TTC Delays
 This project aims at using different time series models to predict and forecast the delay times the Toronto Transit Commission (TTC) has incurred over time. 
 
-The data, pulled from both government sites and Kaggle, spans from January 2014 to September 2021. Being incomplete, the goal is to asses whether forecasting methods such as as Holt-Winters exponential smoothing, ARIMA and Facebook's Prophet are useful in determining the behavior of this series, which are calculated on a monthly basis (data is recorded on a daily frequency). At the moment, only Holt-Winters has been implemented.
+The data, pulled from both government sites and Kaggle, spans from January 2014 to September 2021. Being incomplete, the goal is to asses whether forecasting methods such as as Holt-Winters exponential smoothing, ARIMA and Facebook's Prophet are useful in determining the behavior of this series, which are calculated on a monthly basis (data is recorded on a daily frequency). At its current form, a Holt-Winters triple exponential smoothing model and a ARIMA (1,1,1) have been implemented over the dimension of delay minutes (monthly resampled to get the total delay in minutes per month).
 
-The assets for the prohect are Jupyter Notebook with a background presentation of the project, basiv visualizations to lay a top view of the series and the forecasting analysis. 
+The assets for the prohect are Jupyter Notebook with a background presentation of the project, basic visualizations to lay a top view of the series and the forecasting analysis. 

@@ -26,7 +26,7 @@ This project is an exploratory and time series with intent of 2devising a 24-mon
 
 Data is pulled from [Yahoo Finance](https://finance.yahoo.com/quote/sbux/history/) for the following purposes:
 
-- Explore historical trends (from the date it went public to November 24 20219.
+- Explore historical trends (from the date it went public to November 24 2019.
 - Assess the impact of COVID-19 and the business strategies devises by the company to deal with the new reality.
 - Compare the returns of SBUX with those of some of its competitors, like McDonald's, over the last 23 months.
 - Fit an ARIMA model for 24-month adjusted price forecasting purposes.

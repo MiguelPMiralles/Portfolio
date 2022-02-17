@@ -40,3 +40,7 @@ A Tableau story was created to display the number of fatal and non-fatal acciden
 Also, a dashboard was produced summarizing the top-view stats of the issue. The Jupyter Notebook file contains data wrangling of the data set, visualizations about the number of fatal and non-fatal accidents over the years, their district and neighborhood distribution, aggregation charts and plots on accident causes and parties involved, amongh other lines of data exploration.
 
 Also, two classifcation models (logistic regression and random forest classifiers) have been implemented to assess whether fatality and non-fatlity can be discerned according to dimensions such as parties involved or accident causes. Given the imbalances present in the accident type data, the approach to work around the issue was that of upsampling the minority subsample.
+
+5. [Toronto Transit Commission Delays from January 2014 to September 2021 and a Look Beyond](https://github.com/MiguelPMiralles/Portfolio/tree/main/TTC%20Delays)
+
+This project aims to analyse the data available (pulled from the [Council's site](https://open.toronto.ca/dataset/ttc-subway-delay-data/) and [Kaggle](https://www.kaggle.com/sasakitetsuya/subway-analysis-time-series-and-visualization/data)) on the subway delays experienced by the Toronto Transit Commission. My goal is to apply different time series analysis methods to obtain solid predictions and forecast data. 

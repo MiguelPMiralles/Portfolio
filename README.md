@@ -6,8 +6,6 @@ After graduating from the Juno College Data Analysis Bootcamp, I have gathered a
 
 I have extensive experience working in multidisciplinary teams that are service-oriented, so I place a high value on productively communicating my ideas and insights. I want to embrace the challenge of establishing meaningful working relationships with both technical and non-technical users. A solving attitude has a positive impact on the performance of the team, something I have experienced first hand localizing Bixby (Samsung's AI assistant) into Spanish and proofreading copy for Domestika. I would not have been able to perform these tasks if I did not develop a keen eye for detail and an analytical mindset, as I think it is essential not to let details or patterns go unnoticed. In relation to this, I am persistent and tenacious and put a high value on bringing new ideas and taking action, inside and outside the box. These are the qualities I can bring to the table, on top of my technical background. 
 
-Here you will find the projects I have been working on over the last nine weeks, as part of of the Juno College Data Analysis Bootcamp. 
-
 With that in mind, let me introduce you to my projects. 
 
 In this repository you will also find a copy of my [resume](https://github.com/MiguelPMiralles/Portfolio/blob/main/Miguel_Pall%C3%A1s_Miralles_-_Data_Analyst.pdf), in case you want to take a look at my background and education.

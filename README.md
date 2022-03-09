@@ -14,7 +14,7 @@ In this repository you will also find a copy of my [resume](https://github.com/M
 
 1. [Assessing Rolling Retention](https://github.com/MiguelPMiralles/Portfolio/tree/main/Assessing%20Rolling%20Retention)
 
-This project handles simulated game performance data to guess the 30-day retention date of its player pool over a lifecycle of 365 days. The analysis was performed by a team of two consisting of fellow analyst [Jon-Jon Rico Noll](https://github.com/riconoll/ProjectOne) and myself. Follow-up questions to address are the average expenditure of those retained compared to non-retained players and the regional distribution of the player pool. The relational database features 4 tables, containing information on the players, match results, and item purchases.
+This project handles simulated game performance data to guess the 30-day retention date of its player pool over a lifecycle of 365 days. The analysis was performed by a team of two consisting of fellow analyst [Jon-Jon Rico Noll](https://github.com/riconoll) and myself. Follow-up questions to address are the average expenditure of those retained compared to non-retained players and the regional distribution of the player pool. The relational database features 4 tables, containing information on the players, match results, and item purchases.
 
 2. [Visualizing Personal Consumption in the US](https://github.com/MiguelPMiralles/Portfolio/tree/main/Visualizing%20Personal%20Consumption%20in%20the%20US)
 

@@ -4,7 +4,7 @@ This repository contains the assets for the Juno College Data Analysis Cohort 1 
 
 A [Tableau story](https://public.tableau.com/app/profile/miguel2600/viz/KilledorSeriouslyInjuredinToronto2006-2020/KSI2006-2020) was created to display the number of fatal and non-fatal accidents that have taken place in Toronto from 2006 to 2020, divided by district. Also, charts aggregating data in relation to causes of accidents and parties involved, as well as age clusters of the people involved in accidents. 
 
-Also, a [dashboard]( https://public.tableau.com/views/KilledorSeriousInjuredinToronto2006-2020/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) was produced summarizing the top-view stats of the issue. 
+Also, a [dashboard]( https://public.tableau.com/views/KilledorSeriousInjuredinToronto2006-2020/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) was produced summarizing the top-view stats of the issue.
 
 Here's a snippet of the dasboard:
 

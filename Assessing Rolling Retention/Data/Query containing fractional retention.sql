@@ -1,4 +1,4 @@
---Query rendering player count over lifecycle and the players over/under retention threshold
+--CTE rendering player count over lifecycle and the players over/under retention threshold
 with retained_and_non_retained as (SELECT joined as joining_day, COUNT(CAST(retained as int)) as retained, COUNT(CAST(non_retained as int)) as non
 FROM(
 SELECT                          -->retained

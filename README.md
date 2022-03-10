@@ -22,7 +22,7 @@ This project is an exploration of the takeaways featured in the Feb 24 2021 Bloo
 
 3. [Analyzing Starbuck's Stock Price during COVID-19](https://github.com/MiguelPMiralles/Portfolio/tree/main/Analyzing%20Starbuck's%20Stock%20Price%20during%20COVID-19)
 
-This project is an exploratory and time series with intent of 2devising a 24-month price forecasting model of the Starbucks stock (SBUX).
+This project is an exploratory and time series with intent of devising a 24-month price forecasting model of the Starbucks stock (SBUX).
 
 Data is pulled from [Yahoo Finance](https://finance.yahoo.com/quote/sbux/history/) for the following purposes:
 

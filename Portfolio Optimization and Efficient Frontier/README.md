@@ -1,3 +1,1 @@
-This notebook contains a return, volatlity and Sharpe Ratio analysis of a set of securities for a given portfolio. 
-
-The goal is to apply the principles of Modern Portfolio Theory approach while running a Monte Carlo simulation to obtain the optimal weights.
+This notebook contains a return, volatlity and Sharpe Ratio analysis of a set of securities for a given portfolio. The goal is to apply the principles of Modern Portfolio Theory approach while running a Monte Carlo simulation to obtain the optimal weights. As a result of it, the combination that maximizes return at the expense of risk was calculated (for that, the Sharpe Ratio was used, as it returns the excess return per unit of volatility), as well as the efficient frontier, the set of combinations that have a good return-to-risk relation.

@@ -44,3 +44,7 @@ Also, two classifcation models (logistic regression and random forest classifier
 5. [Toronto Transit Commission Delays from January 2014 to September 2021 and a Look Beyond](https://github.com/MiguelPMiralles/Portfolio/tree/main/TTC%20Delays)
 
 This project aims to analyse the data available (pulled from the [Council's site](https://open.toronto.ca/dataset/ttc-subway-delay-data/) and [Kaggle](https://www.kaggle.com/sasakitetsuya/subway-analysis-time-series-and-visualization/data)) on the subway delays experienced by the Toronto Transit Commission. My goal is to apply different time series analysis methods to obtain solid predictions and forecast data to account for the data not present in the data set (the last three months of 2021 and the first three of 2020). 
+
+6. [Portfolio Optimization and Efficient Frontier](https://github.com/MiguelPMiralles/Portfolio/tree/main/Portfolio%20Optimization%20and%20Efficient%20Frontier)
+
+A search for optimal weights for the allocation of cash given a five asset portfolio. 

@@ -15,6 +15,8 @@ The main takeaways are:
 - Alcohol drinks increased during the onset of the pandemic in the US (March 2020) and the implementation of the first control measures. It remained above pre-Covid throughout 2020, likely due to bars and other alcohol-serving establishments being closed or providiing minimum services.
 - Moments of crisis in recent American history (9/11 attacks, Iraq and Afghanistan invasions, and the 2008 financial crisis) are interesting milestones to which compare the March 2020 consumer response to Covid against, as changes in GDP derived from oil prices or the the actual lost of financial stability have the potential to affect personal consumption spending. 
 
-Tableau has been used to produce the exploratory analysis and the dashboard. A [SQL query](https://github.com/MiguelPMiralles/Storytelling-with-Tableau/blob/main/PEC_Year_Growth_Query.sql) has been written as an attempt to coming up with a yearly growth rate (not used in the analysis). 
+Tableau has been used to produce the exploratory analysis and the dashboard. A [SQL query](https://public.tableau.com/app/profile/miguel2600/viz/2020aWeirdYearforPersonalConsumptionintheUS/2020aWeirdYearforPersonalConsumption) has been written as an attempt to coming up with a yearly growth rate (not used in the analysis). 
 
 A story narrating the evolution of personal consuption expenditure and the particulars of 2020 can be found on [my Tableau Public dashboard](https://public.tableau.com/app/profile/miguel2600/viz/2020aWeirdYearforPersonalConsumptionintheUS/2020aWeirdYearforPersonalConsumption).
+
+This report can also be found in [PDF format](https://github.com/MiguelPMiralles/Portfolio/blob/main/Visualizing%20Personal%20Consumption%20in%20the%20US/Data/Personal%20Consumption%20Expenditure%20in%20the%20US%20-%20The%202020%20Case.pdf)

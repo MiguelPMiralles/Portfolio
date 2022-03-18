@@ -14,7 +14,7 @@ In this repository you will also find a copy of my [resume](https://github.com/M
 
 1. [Assessing Rolling Retention](https://github.com/MiguelPMiralles/Portfolio/tree/main/Assessing%20Rolling%20Retention)
 
-This project handles simulated game performance data to guess the 30-day retention date of its player pool over a lifecycle of 365 days. The analysis was performed by a team of two consisting of fellow analyst [Jon-Jon Rico Noll](https://github.com/riconoll/ProjectOne) and myself. Follow-up questions to address are the average expenditure of those retained compared to non-retained players and the regional distribution of the player pool. The relational database features 4 tables, containing information on the players, match results, and item purchases.
+This project handles simulated game performance data to guess the 30-day retention date of its player pool over a lifecycle of 365 days. The analysis was performed by a team of two consisting of fellow analyst [Jon-Jon Rico Noll](https://github.com/riconoll) and myself. Follow-up questions to address are the average expenditure of those retained compared to non-retained players and the regional distribution of the player pool. The relational database features 4 tables, containing information on the players, match results, and item purchases.
 
 2. [Visualizing Personal Consumption in the US](https://github.com/MiguelPMiralles/Portfolio/tree/main/Visualizing%20Personal%20Consumption%20in%20the%20US)
 
@@ -22,7 +22,7 @@ This project is an exploration of the takeaways featured in the Feb 24 2021 Bloo
 
 3. [Analyzing Starbuck's Stock Price during COVID-19](https://github.com/MiguelPMiralles/Portfolio/tree/main/Analyzing%20Starbuck's%20Stock%20Price%20during%20COVID-19)
 
-This project is an exploratory and time series with intent of 2devising a 24-month price forecasting model of the Starbucks stock (SBUX).
+This project is an exploratory and time series with intent of devising a 24-month price forecasting model of the Starbucks stock (SBUX).
 
 Data is pulled from [Yahoo Finance](https://finance.yahoo.com/quote/sbux/history/) for the following purposes:
 
@@ -44,3 +44,7 @@ Also, two classifcation models (logistic regression and random forest classifier
 5. [Toronto Transit Commission Delays from January 2014 to September 2021 and a Look Beyond](https://github.com/MiguelPMiralles/Portfolio/tree/main/TTC%20Delays)
 
 This project aims to analyse the data available (pulled from the [Council's site](https://open.toronto.ca/dataset/ttc-subway-delay-data/) and [Kaggle](https://www.kaggle.com/sasakitetsuya/subway-analysis-time-series-and-visualization/data)) on the subway delays experienced by the Toronto Transit Commission. My goal is to apply different time series analysis methods to obtain solid predictions and forecast data to account for the data not present in the data set (the last three months of 2021 and the first three of 2020). 
+
+6. [Portfolio Optimization and Efficient Frontier](https://github.com/MiguelPMiralles/Portfolio/tree/main/Portfolio%20Optimization%20and%20Efficient%20Frontier)
+
+A search for optimal weights for the allocation of cash given a five asset portfolio. 

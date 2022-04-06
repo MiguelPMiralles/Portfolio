@@ -47,4 +47,4 @@ This project aims to analyse the data available (pulled from the [Council's site
 
 6. [Portfolio Optimization and Efficient Frontier](https://github.com/MiguelPMiralles/Portfolio/tree/main/Portfolio%20Optimization%20and%20Efficient%20Frontier)
 
-A search for optimal weights for the allocation of cash given a five asset portfolio. 
+A search for the optimal investment weights for five asset portfolio given their returns and volatility. Data is pulled from Yahoo Finance and the ticker selection follows no particular criteria. 

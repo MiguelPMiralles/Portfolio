@@ -47,7 +47,7 @@ This project aims to analyse the data available (pulled from the [Council's site
 
 6. [Portfolio Optimization and Efficient Frontier](https://github.com/MiguelPMiralles/Portfolio/tree/main/Portfolio%20Optimization%20and%20Efficient%20Frontier)
 
-A search for the optimal investment weights for five asset portfolio given their returns and volatility. Data is pulled from Yahoo Finance and the ticker selection follows no particular criteria. 
+A search for the optimal investment weights for five asset portfolio and set of ETFs given their returns and volatility. Data is pulled from Yahoo Finance and the ticker selection, in the first case, follows no particular criteria. For the second scenario, the mix is inpired by [Indexa Capital's stock market ETFs portfolio](https://indexacapital.com/es/esp/model?product=pension).
 
 7. [COVID-19 Cases in Toronto: Building Classifiers for Source of Infection and Case Outcome](https://github.com/MiguelPMiralles/Portfolio/tree/main/COVID19%20in%20Toronto%20-%20ML%20and%20NLP)
 

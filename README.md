@@ -47,4 +47,9 @@ This project aims to analyse the data available (pulled from the [Council's site
 
 6. [Portfolio Optimization and Efficient Frontier](https://github.com/MiguelPMiralles/Portfolio/tree/main/Portfolio%20Optimization%20and%20Efficient%20Frontier)
 
-A search for the optimal investment weights for five asset portfolio given their returns and volatility. Data is pulled from Yahoo Finance and the ticker selection follows no particular criteria. 
+A search for the optimal investment weights for five asset portfolio and set of ETFs given their returns and volatility. Data is pulled from Yahoo Finance and the ticker selection, in the first case, follows no particular criteria. For the second scenario, the mix is inpired by [Indexa Capital's stock market ETFs portfolio](https://indexacapital.com/es/esp/model?product=pension).
+
+7. [COVID-19 Cases in Toronto: Building Classifiers for Source of Infection and Case Outcome](https://github.com/MiguelPMiralles/Portfolio/tree/main/COVID19%20in%20Toronto%20-%20ML%20and%20NLP)
+
+This project uses reports available at the City of Toronto Data Portal on the cases of [COVID-19 reported in the city of Toronto](https://open.toronto.ca/dataset/covid-19-cases-in-toronto/) from early March 2020 to April 1 2022. There was no purpose of visualising the data, instead, the focus of this project lies on using the data available to build classifiers for labels such as a the outcome of each cas (resolved, active or fatal) or the various sources of infection detected by Toronto Public Health. Another classification analysis was performed on the PSA regions and neighborhoods as predictos of whether the infection cases are outbreak-related or not. A Naive-Bayes Multinomial classifier was implement to undertake this text classification task. 
+Of note is that the dataset for the relevante target and input variables is severely imbalanced. To that end, undersampling techniques were used to deal with the skewness. 

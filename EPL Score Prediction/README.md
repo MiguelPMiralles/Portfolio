@@ -1,4 +1,4 @@
-# EPL-Score-Prediction
+# EPL Game Outcome Prediction
 This project is based on Dataquest's two-part series tutorial on web scraping with Python and implementation of ML algorithms to predict the outcome of English Premier League games. One of the goals of this project was to learn how to scrape a web site and how to refactor dimensions of interest to implement machine learning algorithms. While I followed the tutorial for the firt task of the project, given that this was my first time scraping that much data, I redimensioned the data for machine learning purporses, making it purely time series, taking all scores for all fixtures given game date.
 
 A dataframe was created with the scraped data, then exported to  CSV file. Later on, a dedicated Jupyter notebook file was created to investigate ways to predict match outcomes (win/ no win) given different metrics and stats. These assets are all stored in the[ 'Data'](https://github.com/MiguelPMiralles/Portfolio/tree/main/EPL%20Score%20Prediction/Data) folder.

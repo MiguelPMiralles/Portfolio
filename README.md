@@ -54,7 +54,7 @@ A search for the optimal investment weights for five asset portfolio and set of 
 This project uses reports available at the City of Toronto Data Portal on the cases of [COVID-19 reported in the city of Toronto](https://open.toronto.ca/dataset/covid-19-cases-in-toronto/) from early March 2020 to April 1 2022. There was no purpose of visualising the data, instead, the focus of this project lies on using the data available to build classifiers for labels such as a the outcome of each cas (resolved, active or fatal) or the various sources of infection detected by Toronto Public Health. Another classification analysis was performed on the PSA regions and neighborhoods as predictos of whether the infection cases are outbreak-related or not. A Naive-Bayes Multinomial classifier was implement to undertake this text classification task. 
 Of note is that the dataset for the relevante target and input variables is severely imbalanced. To that end, undersampling techniques were used to deal with the skewness. 
 
-8. [Website-Traffic-Analysis---LinkFire]([https://github.com/MiguelPMiralles/Portfolio/tree/main/EPL%20Score%20Prediction](https://github.com/MiguelPMiralles/Website-Traffic-Analysis---LinkFire))
+8. [Website-Traffic-Analysis---LinkFire]([https://github.com/MiguelPMiralles/Portfolio/tree/main/EPL%20Score%20Prediction](https://github.com/MiguelPMiralles/Website-Traffic-Analysis---LinkFire)
 
 This repository includes the responses to the take-home assignment for data science positions as hosted in StrataScratch: https://platform.stratascratch.com/data-projects/website-traffic-analysis
 
